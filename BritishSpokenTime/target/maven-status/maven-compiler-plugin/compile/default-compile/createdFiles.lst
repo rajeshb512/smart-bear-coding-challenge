@@ -1,0 +1,13 @@
+org\smart\bear\BritishSpokenTimeApplication.class
+org\smart\bear\time\OClock.class
+org\smart\bear\time\Noon.class
+org\smart\bear\time\QuarterTo.class
+org\smart\bear\service\BritishSpokenTimeService.class
+org\smart\bear\time\DirectTime.class
+org\smart\bear\time\Midnight.class
+org\smart\bear\time\MinutesToHour.class
+org\smart\bear\time\QuarterPast.class
+org\smart\bear\time\BritishTimeSpoken.class
+org\smart\bear\time\HalfPast.class
+org\smart\bear\time\Past.class
+org\smart\bear\util\BritishTimeUtils.class
